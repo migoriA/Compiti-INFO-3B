@@ -1,0 +1,13 @@
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\bin\Debug\Es20.exe.config
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\bin\Debug\Es20.exe
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\bin\Debug\Es20.pdb
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.LogInPage.resources
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.exe
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.pdb
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\obj\Debug\Es20.SignInPage.resources
+C:\Users\Andrea\Desktop\Compiti INFO\Es20\Es20\bin\Debug\Dati.txt
