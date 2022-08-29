@@ -1,0 +1,8 @@
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\bin\Debug\Es14.exe.config
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\bin\Debug\Es14.exe
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\bin\Debug\Es14.pdb
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\obj\Debug\Es14.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\obj\Debug\Es14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\obj\Debug\Es14.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\obj\Debug\Es14.exe
+C:\Users\Andrea\Desktop\Compiti INFO\Es14\Es14\obj\Debug\Es14.pdb
