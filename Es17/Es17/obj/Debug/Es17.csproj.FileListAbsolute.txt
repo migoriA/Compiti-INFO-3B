@@ -1,0 +1,8 @@
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\bin\Debug\Es17.exe.config
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\bin\Debug\Es17.exe
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\bin\Debug\Es17.pdb
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\obj\Debug\Es17.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\obj\Debug\Es17.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\obj\Debug\Es17.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\obj\Debug\Es17.exe
+C:\Users\andre\Desktop\Compiti-INFO-3B\Es17\Es17\obj\Debug\Es17.pdb
